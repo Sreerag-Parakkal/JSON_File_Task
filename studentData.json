@@ -1,0 +1,26 @@
+{
+    "Students": [
+        {
+            "Name": "Sreerag",
+            "Age": "22",
+            "Place": "Palakkad",
+            "Student": "true",
+            "Language": [
+                "Malayalam",
+                "English",
+                " Hindi"
+            ]
+        },
+        {
+            "Name": "Ram",
+            "Age": "25",
+            "Place": "Thrissur",
+            "Student": "true",
+            "Language": [
+                "Malayalam",
+                "English",
+                " Hindi"
+            ]
+        }
+    ]
+}
